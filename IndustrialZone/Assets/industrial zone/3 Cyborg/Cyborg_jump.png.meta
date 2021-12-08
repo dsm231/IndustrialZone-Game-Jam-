@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: c7d6d04ae507cfb41b51054801c3fa99
+guid: f93859499597c3b4989e9106ed8f015c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4457850898058260020
-    second: Card_0
+      213: 3731658903798005642
+    second: Cyborg_jump_0
   - first:
-      213: 3609959554996883812
-    second: Card_1
+      213: -4391170822400585380
+    second: Cyborg_jump_1
   - first:
-      213: 693384124834221472
-    second: Card_2
+      213: 4817185104543597353
+    second: Cyborg_jump_2
   - first:
-      213: 7254593484104784328
-    second: Card_3
-  - first:
-      213: 3515724163430638945
-    second: Card_4
-  - first:
-      213: -8627803510776909774
-    second: Card_5
-  - first:
-      213: -178499864975547042
-    second: Card_6
-  - first:
-      213: -815812442243144733
-    second: Card_7
+      213: -1752231951277745045
+    second: Cyborg_jump_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -123,13 +111,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Card_0
+      name: Cyborg_jump_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 2
         y: 6
-        width: 12
-        height: 11
+        width: 28
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,41 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc1d4971a388222c0800000000000000
-      internalID: -4457850898058260020
+      spriteID: a8fbdc7700489c330800000000000000
+      internalID: 3731658903798005642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_1
+      name: Cyborg_jump_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 7
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 461dd11c617291230800000000000000
-      internalID: 3609959554996883812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Card_2
-      rect:
-        serializedVersion: 2
-        x: 57
+        x: 50
         y: 8
-        width: 4
-        height: 11
+        width: 28
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,83 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ad83a510356f9900800000000000000
-      internalID: 693384124834221472
+      spriteID: c51d0c6076d6f03c0800000000000000
+      internalID: -4391170822400585380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_3
+      name: Cyborg_jump_2
       rect:
         serializedVersion: 2
-        x: 79
-        y: 8
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c9dde9565e7da460800000000000000
-      internalID: 7254593484104784328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Card_4
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 7
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1656a81ef7c5ac030800000000000000
-      internalID: 3515724163430638945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Card_5
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 6
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23036444b62e34880800000000000000
-      internalID: -8627803510776909774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Card_6
-      rect:
-        serializedVersion: 2
-        x: 153
+        x: 98
         y: 5
-        width: 4
-        height: 11
+        width: 28
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e556dab8157d58df0800000000000000
-      internalID: -178499864975547042
+      spriteID: 923cf9d74541ad240800000000000000
+      internalID: 4817185104543597353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_7
+      name: Cyborg_jump_3
       rect:
         serializedVersion: 2
-        x: 175
-        y: 6
-        width: 8
-        height: 11
+        x: 145
+        y: 1
+        width: 30
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,8 +188,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e3e0c8f7e6ada4f0800000000000000
-      internalID: -815812442243144733
+      spriteID: b6c1004f252dea7e0800000000000000
+      internalID: -1752231951277745045
       vertices: []
       indices: 
       edges: []

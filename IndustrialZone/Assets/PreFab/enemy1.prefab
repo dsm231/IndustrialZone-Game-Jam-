@@ -12,7 +12,9 @@ GameObject:
   - component: {fileID: 304029222389857895}
   - component: {fileID: 304029222389857912}
   - component: {fileID: 3771884283204588883}
-  m_Layer: 0
+  - component: {fileID: 4147446721891540177}
+  - component: {fileID: 680181405077582093}
+  m_Layer: 8
   m_Name: enemy1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 304029222389857913}
   m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
   m_LocalPosition: {x: 3.267, y: -3.077, z: 0}
-  m_LocalScale: {x: 2.8432503, y: 2.7112665, z: 1}
+  m_LocalScale: {x: 3.8, y: 2.7112665, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -128,3 +130,42 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4147446721891540177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304029222389857913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d9fbcf8e8755f14f92d71051a885299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+  positions:
+  - {x: 7.53, y: -2.89, z: 0}
+  - {x: -7.22, y: -2.89, z: 0}
+  BloodSplash: {fileID: 1286752613117214137, guid: 1684175908089b448952fb3fbc4cea17,
+    type: 3}
+--- !u!50 &680181405077582093
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304029222389857913}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4

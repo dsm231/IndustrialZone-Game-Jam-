@@ -1,31 +1,25 @@
 fileFormatVersion: 2
-guid: c7d6d04ae507cfb41b51054801c3fa99
+guid: 3b7a373a24baa4c4a8cd2abffc6b3762
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4457850898058260020
-    second: Card_0
+      213: -2760476029438245614
+    second: Cyborg_run_0
   - first:
-      213: 3609959554996883812
-    second: Card_1
+      213: 5798244199525097649
+    second: Cyborg_run_1
   - first:
-      213: 693384124834221472
-    second: Card_2
+      213: -5068142148817044500
+    second: Cyborg_run_2
   - first:
-      213: 7254593484104784328
-    second: Card_3
+      213: 7958664899273603240
+    second: Cyborg_run_3
   - first:
-      213: 3515724163430638945
-    second: Card_4
+      213: 1971013790562645882
+    second: Cyborg_run_4
   - first:
-      213: -8627803510776909774
-    second: Card_5
-  - first:
-      213: -178499864975547042
-    second: Card_6
-  - first:
-      213: -815812442243144733
-    second: Card_7
+      213: 8889248399938843937
+    second: Cyborg_run_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -123,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Card_0
+      name: Cyborg_run_0
       rect:
         serializedVersion: 2
         x: 5
-        y: 6
-        width: 12
-        height: 11
+        y: 0
+        width: 20
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc1d4971a388222c0800000000000000
-      internalID: -4457850898058260020
+      spriteID: 2154a564da1d0b9d0800000000000000
+      internalID: -2760476029438245614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_1
+      name: Cyborg_run_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 7
-        width: 8
-        height: 11
+        x: 52
+        y: 0
+        width: 19
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 461dd11c617291230800000000000000
-      internalID: 3609959554996883812
+      spriteID: 1b0a9a90160877050800000000000000
+      internalID: 5798244199525097649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_2
+      name: Cyborg_run_2
       rect:
         serializedVersion: 2
-        x: 57
-        y: 8
-        width: 4
-        height: 11
+        x: 98
+        y: 0
+        width: 28
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ad83a510356f9900800000000000000
-      internalID: 693384124834221472
+      spriteID: ceb339c51975aa9b0800000000000000
+      internalID: -5068142148817044500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_3
+      name: Cyborg_run_3
       rect:
         serializedVersion: 2
-        x: 79
-        y: 8
-        width: 8
-        height: 11
+        x: 144
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c9dde9565e7da460800000000000000
-      internalID: 7254593484104784328
+      spriteID: 8a8b29f1f8bd27e60800000000000000
+      internalID: 7958664899273603240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_4
+      name: Cyborg_run_4
       rect:
         serializedVersion: 2
-        x: 101
-        y: 7
-        width: 12
-        height: 11
+        x: 195
+        y: 0
+        width: 23
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1656a81ef7c5ac030800000000000000
-      internalID: 3515724163430638945
+      spriteID: a77f1e189927a5b10800000000000000
+      internalID: 1971013790562645882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Card_5
+      name: Cyborg_run_5
       rect:
         serializedVersion: 2
-        x: 127
-        y: 6
-        width: 8
-        height: 11
+        x: 246
+        y: 0
+        width: 19
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,50 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23036444b62e34880800000000000000
-      internalID: -8627803510776909774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Card_6
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 5
-        width: 4
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e556dab8157d58df0800000000000000
-      internalID: -178499864975547042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Card_7
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 6
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e3e0c8f7e6ada4f0800000000000000
-      internalID: -815812442243144733
+      spriteID: 125709e8254fc5b70800000000000000
+      internalID: 8889248399938843937
       vertices: []
       indices: 
       edges: []
