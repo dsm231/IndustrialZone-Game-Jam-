@@ -1,1 +1,1 @@
-# IndustrialZone-Game-Jam-
+# First game jam project part of outscal curriculam.
